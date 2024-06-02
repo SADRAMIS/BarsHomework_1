@@ -1,0 +1,8 @@
+ul {
+    width: 100px;
+}
+
+li {
+    background-color: antiquewhite;
+    cursor: pointer;
+}
